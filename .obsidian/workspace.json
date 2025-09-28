@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fe20a01d7d3ba789",
+        "id": "d660c3fe0ed97f73",
         "type": "tabs",
         "children": [
           {
-            "id": "047b51896713518a",
+            "id": "98f18dc0465b6cad",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,8 +173,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "047b51896713518a",
+  "active": "98f18dc0465b6cad",
   "lastOpenFiles": [
+    "Cooking/Urvashi Pitre/Instant pot fast and easy/Jamaican chicken curry/Jamaican Chicken Curry.md",
+    "Cooking/Urvashi Pitre/Instant pot fast and easy/Chicken biryani/Chicken biryani - Recipe.md",
+    "Cooking/Urvashi Pitre/Indian InstantPot/Punjabi chicken curry/Punjabi chicken curry - Recipe.md",
+    "Source index/Cookbooks.md",
+    "Notes/Shredded chicken tacos.md",
     "Untitled.base",
     "Untitled 3.base",
     "Untitled 2.base",
@@ -201,10 +206,6 @@
     "Recipes/Cocoa whipped cream.md",
     "Recipes/Cocoa brownies.md",
     "Recipes/Cincinnati-style chili - foodwishes.com.md",
-    "Recipes/Chocolate ganache buttercream.md",
-    "Recipes/Best cream cheese cookies.md",
-    "Recipes/Baked potato.md",
-    "Recipes/Ants in trees.md",
     "Source index",
     "Daily/2025/05",
     "Daily/2025/04",
@@ -218,7 +219,6 @@
     "Images/Real Chili copycat.jpg",
     "Documents",
     "Images",
-    "Notes",
     "Cooking/Pork chili verde/Pork chili verde - Image.jpg",
     "Cooking/Urvashi Pitre/Instant pot fast and easy/Italian sausage & kale soup/Italian sausage & Kale Soup - Image.jpg"
   ]
