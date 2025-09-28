@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "54d9563f70225a5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe20a01d7d3ba789",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "047b51896713518a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6752c1bbd1eccb3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1c7e7adc6cb7335",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f51d8655515ecc24",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0906d32183348b6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eb60198124603595",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5040512084961
+  },
+  "right": {
+    "id": "73386737a06851c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "56111de998d73240",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2717f2c636399aef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cookbooks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Cookbooks"
+            }
+          },
+          {
+            "id": "5ef958d95d5a925d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "altonbrown.com.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from altonbrown.com"
+            }
+          },
+          {
+            "id": "64f385ae772840e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f5d7c33b75c890d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cooking/Instant Pot Whole Chicken.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Instant Pot Whole Chicken"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "recipe-view:Toggle recipe view": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "047b51896713518a",
+  "lastOpenFiles": [
+    "Untitled.base",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Recipes/Shredded chicken tacos.md",
+    "Documents/Shredded Chicken Tacos (Tinga de Pollo) _ America's Test Kitchen.pdf",
+    "Recipes/Fudge cake.md",
+    "Notes/Pumping Station One pot-luck log.md",
+    "Cooking/Urvashi Pitre/Instant pot fast and easy/Beef rendang/Beef rendang - Recipe.md",
+    "Notes/Amish beef and noodles.md",
+    "Recipes/Coconut-Pecan filling and frosting.md",
+    "Recipes/Baker's German's sweet chocolate cake.md",
+    "Recipes/German chocolate cake - Food network.md",
+    "Notes/Common conversions.md",
+    "Recipes/Spanish rice.md",
+    "Recipes/The general's fried chicken.md",
+    "Recipes/Toasting oats.md",
+    "Recipes/Tourtière - A French-Canadian meat pie recipe.md",
+    "Recipes/Yeast Doughnuts.md",
+    "Recipes/Ghee.md",
+    "Recipes/Garlic chicken.md",
+    "Recipes/Double ginger molasses cookies.md",
+    "Recipes/Double chocolate cookies.md",
+    "Recipes/Cocoa whipped cream.md",
+    "Recipes/Cocoa brownies.md",
+    "Recipes/Cincinnati-style chili - foodwishes.com.md",
+    "Recipes/Chocolate ganache buttercream.md",
+    "Recipes/Best cream cheese cookies.md",
+    "Recipes/Baked potato.md",
+    "Recipes/Ants in trees.md",
+    "Source index",
+    "Daily/2025/05",
+    "Daily/2025/04",
+    "Images/Lemon curd.jpg",
+    "Images/Yeast donuts.jpg",
+    "Images/The general's fried chicken.jpg",
+    "Images/Molasses and coffee marinated pork chops.jpg",
+    "Images/Double ginger molasses cookies.jpg",
+    "Cooking/Pfeffernuesse/Josh's handwritten pfeffernuesse recipe page 2.jpg",
+    "Cooking/Pfeffernuesse/Josh's handwritten pfeffernuesse recipe page 1.jpg",
+    "Images/Real Chili copycat.jpg",
+    "Documents",
+    "Images",
+    "Notes",
+    "Cooking/Pork chili verde/Pork chili verde - Image.jpg",
+    "Cooking/Urvashi Pitre/Instant pot fast and easy/Italian sausage & kale soup/Italian sausage & Kale Soup - Image.jpg"
+  ]
+}
