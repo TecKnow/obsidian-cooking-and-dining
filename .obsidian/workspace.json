@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/A far, far better cake.md",
+                "file": "Recipes/Double chocolate cookies.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "A far, far better cake"
+              "title": "Double chocolate cookies"
             }
           },
           {
@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "37583d522b589866",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/Apple cake with honey.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Apple cake with honey"
-            }
-          },
-          {
             "id": "618cd3bc62db7526",
             "type": "leaf",
             "state": {
@@ -63,8 +49,7 @@
               "title": "Droste alternatives"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,14 +201,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "618cd3bc62db7526",
+  "active": "11e3609e66445025",
   "lastOpenFiles": [
+    "Recipes/Cocoa whipped cream.md",
+    "Recipes/Cocoa brownies.md",
+    "Recipes/Cincinnati-style chili - foodwishes.com.md",
+    "Recipes/Chocolate ganache buttercream.md",
+    "Recipes/Best cream cheese cookies.md",
+    "Recipes/Baker's German's sweet chocolate cake.md",
+    "Recipes/Baked potato.md",
     "Recipes/Apple cake with honey.md",
-    "Recipes/Molten Chocolate Babka.md",
-    "Recipes/A far, far better cake.md",
+    "Recipes/Ants in trees.md",
+    "Recipes/Amish beef and noodles - foodwishes.com.md",
     "Recipes/Amish beef and noodles.md",
-    "Cooking/Untitled.md",
+    "Recipes/A far, far better cake.md",
+    "Recipes/Molten Chocolate Babka.md",
     "Consumables/Droste alternatives.md",
+    "Cooking/Untitled.md",
     "Notes/Shredded chicken tacos.md",
     "Cooking/Urvashi Pitre/Instant pot fast and easy/Jamaican chicken curry/Jamaican Chicken Curry.md",
     "Cooking/Urvashi Pitre/Instant pot fast and easy/Chicken biryani/Chicken biryani - Recipe.md",
@@ -240,15 +234,6 @@
     "Cooking/Urvashi Pitre/Instant pot fast and easy/Beef rendang/Beef rendang - Recipe.md",
     "Notes/Amish beef and noodles.md",
     "Recipes/Coconut-Pecan filling and frosting.md",
-    "Recipes/Baker's German's sweet chocolate cake.md",
-    "Recipes/German chocolate cake - Food network.md",
-    "Notes/Common conversions.md",
-    "Recipes/Spanish rice.md",
-    "Recipes/The general's fried chicken.md",
-    "Recipes/Toasting oats.md",
-    "Recipes/Tourtière - A French-Canadian meat pie recipe.md",
-    "Recipes/Yeast Doughnuts.md",
-    "Recipes/Ghee.md",
     "Source index",
     "Daily/2025/05",
     "Daily/2025/04",
