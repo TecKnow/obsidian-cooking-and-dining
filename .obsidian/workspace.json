@@ -8,20 +8,63 @@
         "type": "tabs",
         "children": [
           {
+            "id": "11e3609e66445025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/A far, far better cake.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "A far, far better cake"
+            }
+          },
+          {
             "id": "98f18dc0465b6cad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Shredded chicken tacos.md",
+                "file": "Recipes/Molten Chocolate Babka.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Shredded chicken tacos"
+              "title": "Molten Chocolate Babka"
+            }
+          },
+          {
+            "id": "37583d522b589866",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/Apple cake with honey.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Apple cake with honey"
+            }
+          },
+          {
+            "id": "618cd3bc62db7526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Consumables/Droste alternatives.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Droste alternatives"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -173,13 +216,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98f18dc0465b6cad",
+  "active": "618cd3bc62db7526",
   "lastOpenFiles": [
+    "Recipes/Apple cake with honey.md",
+    "Recipes/Molten Chocolate Babka.md",
+    "Recipes/A far, far better cake.md",
+    "Recipes/Amish beef and noodles.md",
+    "Cooking/Untitled.md",
+    "Consumables/Droste alternatives.md",
+    "Notes/Shredded chicken tacos.md",
     "Cooking/Urvashi Pitre/Instant pot fast and easy/Jamaican chicken curry/Jamaican Chicken Curry.md",
     "Cooking/Urvashi Pitre/Instant pot fast and easy/Chicken biryani/Chicken biryani - Recipe.md",
     "Cooking/Urvashi Pitre/Indian InstantPot/Punjabi chicken curry/Punjabi chicken curry - Recipe.md",
     "Source index/Cookbooks.md",
-    "Notes/Shredded chicken tacos.md",
     "Untitled.base",
     "Untitled 3.base",
     "Untitled 2.base",
@@ -200,12 +249,6 @@
     "Recipes/Tourtière - A French-Canadian meat pie recipe.md",
     "Recipes/Yeast Doughnuts.md",
     "Recipes/Ghee.md",
-    "Recipes/Garlic chicken.md",
-    "Recipes/Double ginger molasses cookies.md",
-    "Recipes/Double chocolate cookies.md",
-    "Recipes/Cocoa whipped cream.md",
-    "Recipes/Cocoa brownies.md",
-    "Recipes/Cincinnati-style chili - foodwishes.com.md",
     "Source index",
     "Daily/2025/05",
     "Daily/2025/04",
