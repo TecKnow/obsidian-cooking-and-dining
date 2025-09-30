@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11e3609e66445025",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/Double chocolate cookies.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Double chocolate cookies"
-            }
-          },
-          {
             "id": "98f18dc0465b6cad",
             "type": "leaf",
             "state": {
@@ -47,6 +33,16 @@
               },
               "icon": "lucide-file",
               "title": "Droste alternatives"
+            }
+          },
+          {
+            "id": "d4d00e700e376484",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -106,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5040512084961
+    "width": 249.5040512084961,
+    "collapsed": true
   },
   "right": {
     "id": "73386737a06851c9",
@@ -201,8 +198,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11e3609e66445025",
+  "active": "98f18dc0465b6cad",
   "lastOpenFiles": [
+    "Notes/Shredded chicken tacos.md",
+    "Recipes/Shredded chicken tacos.md",
+    "Consumables/Droste alternatives.md",
+    "Recipes/Double chocolate cookies.md",
     "Recipes/Cocoa whipped cream.md",
     "Recipes/Cocoa brownies.md",
     "Recipes/Cincinnati-style chili - foodwishes.com.md",
@@ -216,9 +217,7 @@
     "Recipes/Amish beef and noodles.md",
     "Recipes/A far, far better cake.md",
     "Recipes/Molten Chocolate Babka.md",
-    "Consumables/Droste alternatives.md",
     "Cooking/Untitled.md",
-    "Notes/Shredded chicken tacos.md",
     "Cooking/Urvashi Pitre/Instant pot fast and easy/Jamaican chicken curry/Jamaican Chicken Curry.md",
     "Cooking/Urvashi Pitre/Instant pot fast and easy/Chicken biryani/Chicken biryani - Recipe.md",
     "Cooking/Urvashi Pitre/Indian InstantPot/Punjabi chicken curry/Punjabi chicken curry - Recipe.md",
@@ -227,13 +226,11 @@
     "Untitled 3.base",
     "Untitled 2.base",
     "Untitled 1.base",
-    "Recipes/Shredded chicken tacos.md",
     "Documents/Shredded Chicken Tacos (Tinga de Pollo) _ America's Test Kitchen.pdf",
     "Recipes/Fudge cake.md",
     "Notes/Pumping Station One pot-luck log.md",
     "Cooking/Urvashi Pitre/Instant pot fast and easy/Beef rendang/Beef rendang - Recipe.md",
     "Notes/Amish beef and noodles.md",
-    "Recipes/Coconut-Pecan filling and frosting.md",
     "Source index",
     "Daily/2025/05",
     "Daily/2025/04",
