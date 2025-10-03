@@ -34,33 +34,9 @@
               "icon": "lucide-file",
               "title": "Droste alternatives"
             }
-          },
-          {
-            "id": "d4d00e700e376484",
-            "type": "leaf",
-            "state": {
-              "type": "recipe-view",
-              "state": {
-                "file": "Recipes/Double chocolate cookies.md"
-              },
-              "icon": "chef-hat",
-              "title": "Double chocolate cookies"
-            }
-          },
-          {
-            "id": "f738fc759f72b88d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,13 +189,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f738fc759f72b88d",
+  "active": "618cd3bc62db7526",
   "lastOpenFiles": [
+    "Recipes/Double chocolate cookies.md",
     "Consumables/Droste alternatives.md",
     "Recipes/Molten Chocolate Babka.md",
     "Notes/Shredded chicken tacos.md",
     "Recipes/Shredded chicken tacos.md",
-    "Recipes/Double chocolate cookies.md",
     "Recipes/Cocoa whipped cream.md",
     "Recipes/Cocoa brownies.md",
     "Recipes/Cincinnati-style chili - foodwishes.com.md",
