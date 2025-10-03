@@ -22,21 +22,20 @@
             }
           },
           {
-            "id": "618cd3bc62db7526",
+            "id": "4ba902dbe3b4c75d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consumables/Droste alternatives.md",
+                "file": "Recipes/Apple cake with honey.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Droste alternatives"
+              "title": "Apple cake with honey"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,11 +188,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "618cd3bc62db7526",
+  "active": "98f18dc0465b6cad",
   "lastOpenFiles": [
-    "Recipes/Double chocolate cookies.md",
-    "Consumables/Droste alternatives.md",
+    "Recipes/Apple cake with honey.md",
     "Recipes/Molten Chocolate Babka.md",
+    "Consumables/Droste alternatives.md",
+    "Recipes/Double chocolate cookies.md",
     "Notes/Shredded chicken tacos.md",
     "Recipes/Shredded chicken tacos.md",
     "Recipes/Cocoa whipped cream.md",
@@ -203,7 +203,6 @@
     "Recipes/Best cream cheese cookies.md",
     "Recipes/Baker's German's sweet chocolate cake.md",
     "Recipes/Baked potato.md",
-    "Recipes/Apple cake with honey.md",
     "Recipes/Ants in trees.md",
     "Recipes/Amish beef and noodles - foodwishes.com.md",
     "Recipes/Amish beef and noodles.md",

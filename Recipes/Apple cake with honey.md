@@ -1,5 +1,6 @@
 ---
-source: "[[shahar.and.oren]]"
+sources: 
+    - "[[shahar.and.oren]]"
 url: https://www.instagram.com/reel/DOxmxYriA2d/?utm_source=ig_web_copy_link
 recommender: "[[Jorie Goldsmith]]"
 tags:

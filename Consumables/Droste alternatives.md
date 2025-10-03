@@ -11,8 +11,11 @@ This is their general-purpose cocoa powder that they claim is useable in almost 
 ### Double dark cocoa blend
 A mix of Dutch-processed and black cocoa
 
+### Burgundy cocoa
+This is a dutch process cocoa with high cocoa butter content.  It supposedly has a fudge-like flavor.
+
 ### Bensdorp cocoa powder
-This is their straight Dutch-processed cocoa.
+This is their conventional Dutch-processed cocoa.
 
 ### Black cocoa
 This cocoa is double Dutch-processed, and KA suggests it should be used sparingly and in combination with a regular Dutch-processed cocoa.
