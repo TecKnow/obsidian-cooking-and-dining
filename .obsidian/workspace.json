@@ -39,13 +39,28 @@
             "id": "d4d00e700e376484",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "recipe-view",
+              "state": {
+                "file": "Recipes/Double chocolate cookies.md"
+              },
+              "icon": "chef-hat",
+              "title": "Double chocolate cookies"
+            }
+          },
+          {
+            "id": "f738fc759f72b88d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,11 +213,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98f18dc0465b6cad",
+  "active": "f738fc759f72b88d",
   "lastOpenFiles": [
+    "Consumables/Droste alternatives.md",
+    "Recipes/Molten Chocolate Babka.md",
     "Notes/Shredded chicken tacos.md",
     "Recipes/Shredded chicken tacos.md",
-    "Consumables/Droste alternatives.md",
     "Recipes/Double chocolate cookies.md",
     "Recipes/Cocoa whipped cream.md",
     "Recipes/Cocoa brownies.md",
@@ -216,7 +232,6 @@
     "Recipes/Amish beef and noodles - foodwishes.com.md",
     "Recipes/Amish beef and noodles.md",
     "Recipes/A far, far better cake.md",
-    "Recipes/Molten Chocolate Babka.md",
     "Cooking/Untitled.md",
     "Cooking/Urvashi Pitre/Instant pot fast and easy/Jamaican chicken curry/Jamaican Chicken Curry.md",
     "Cooking/Urvashi Pitre/Instant pot fast and easy/Chicken biryani/Chicken biryani - Recipe.md",
