@@ -6,11 +6,10 @@ recommender: "[[Jorie Goldsmith]]"
 tags:
     - imported
     - as-written
-    - to-do
 ---
 # Molten chocolate babka
 ## Ingredients
-### Rich chocolate babka dough
+**Rich chocolate babka dough**
 - 1/2 cup strong coffee or espresso  
 - 1 Tbsp. vanilla  
 - 1 egg  
@@ -21,7 +20,8 @@ tags:
 - 11/2 cup bread flour  
 - 1/2 cup dark cocoa powder  
 - 1 tablespoon instant or bread machine yeast  
-### Creamy Chocolate Pudding filling:  
+
+**Creamy Chocolate Pudding filling**  
 Over medium heat, mix together-  
 2 oz high quality dark chocolate  
 1 cup boiling water  
@@ -49,7 +49,23 @@ Bake at 350 for 35 minutes.
 Cool.  
 Makes 1 babka
 ## Directions
-
 ### Rich chocolate babka dough
 1. Knead all ingredients together until smooth (around 5 minutes), add more flour or water, 1 tablespoon at a time if necessary to get your dough to the tacky not sticky stage.  
 2. Cover and rise 90 minutes.
+
+### Creamy chocolate pudding filling
+1. Over medium heat, mix together the dark chocolate, boiling water, white sugar, and salt.
+2. Once the mixture is smooth and the sugar has dissolved, turn the heat down to low.
+3. Make a slurry of the cornstarch and cold water.
+4. Pour cornstarch slurry into chocolate mixture, cooking until smooth and thick.
+5. Add the butter, stirring until combined.
+6. Shut off the heat and stir in the vanilla
+7. Cover, pressing plastic wrap directly into the pudding to prevent a skin from forming.
+8. Refrigerate until completely cooled.
+9. Once cooled, spoon onto a parchment lined cookie sheet in 8 1 one inch snakes.  Freeze.
+
+### Assembly
+1. Once the dough has risen, divide in half.  Roll each half into an 18"x3" rectangular baking dish.  Place half the frozen filling down the center of each rectangle.  Bring the long ends up and seal tightly.  Twist the strands together and take one end and roll up.
+2. Cover and rise 15-20 minutes.
+3. Bake at 350 degrees Fahrenheit for 15-20 minutes.
+4. Cool completely before slicing and serving.

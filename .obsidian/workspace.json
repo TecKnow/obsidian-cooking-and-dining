@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d660c3fe0ed97f73",
+        "id": "d5b31aadcc239829",
         "type": "tabs",
         "children": [
           {
-            "id": "98f18dc0465b6cad",
+            "id": "aa527e1c39ac610a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/Molten Chocolate Babka.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Molten Chocolate Babka"
-            }
-          },
-          {
-            "id": "4ba902dbe3b4c75d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/Apple cake with honey.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Apple cake with honey"
+              "title": "New tab"
             }
           }
         ]
@@ -188,7 +170,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98f18dc0465b6cad",
+  "active": "aa527e1c39ac610a",
   "lastOpenFiles": [
     "Recipes/Apple cake with honey.md",
     "Recipes/Molten Chocolate Babka.md",
