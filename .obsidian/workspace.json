@@ -11,12 +11,14 @@
             "id": "aa527e1c39ac610a",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Recipes/Chocolate babka - America's Test Kitchen.md"
+                "file": "Consumables/Droste alternatives.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "chef-hat",
-              "title": "Chocolate babka - America's Test Kitchen"
+              "icon": "lucide-file",
+              "title": "Droste alternatives"
             }
           }
         ]
@@ -174,10 +176,10 @@
   },
   "active": "aa527e1c39ac610a",
   "lastOpenFiles": [
+    "Recipes/Chocolate babka - America's Test Kitchen.md",
     "Recipes/Fudge cake.md",
     "Recipes/Cocoa whipped cream.md",
     "Recipes/Cincinnati-style chili - foodwishes.com.md",
-    "Recipes/Chocolate babka - America's Test Kitchen.md",
     "Recipes/Baker's German's sweet chocolate cake.md",
     "Recipes/Yeast Doughnuts.md",
     "Recipes/Tourtière - A French-Canadian meat pie recipe.md",

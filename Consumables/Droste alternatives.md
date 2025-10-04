@@ -30,3 +30,6 @@ Droste Dutch processed cocoa powder hasn't been available from Amazon or an yloc
     - Apparently cocoa barry is a terrible company for reasons I'll need to investigate
 ### 3 October 2025
 I ordered some King Arthur Flour triple cocoa blend from Amazon yesterday, and it arrived today.
+
+### 4 October 2025
+America's Test Kitchen's article on [cocoa powder](https://www.americastestkitchen.com/taste_tests/1878-cocoa-powder) mentions that Droste is discontinued and gives their recommendation to [Guittard Cocoa Rogue Cocoa Powder](https://www.amazon.com/dp/B00DUF3YBE?tag=akotrx03187-20)
