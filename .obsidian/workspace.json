@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consumables/Droste alternatives.md",
-                "mode": "source",
+                "file": "Recipes/Chocolate babka - America's Test Kitchen.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Droste alternatives"
+              "title": "Chocolate babka - America's Test Kitchen"
             }
           }
         ]
@@ -176,6 +176,7 @@
   },
   "active": "aa527e1c39ac610a",
   "lastOpenFiles": [
+    "Consumables/Droste alternatives.md",
     "Recipes/Chocolate babka - America's Test Kitchen.md",
     "Recipes/Fudge cake.md",
     "Recipes/Cocoa whipped cream.md",
@@ -200,7 +201,6 @@
     "Untitled 1.base",
     "Untitled.base",
     "Recipes/Molten Chocolate Babka.md",
-    "Consumables/Droste alternatives.md",
     "Recipes/Double chocolate cookies.md",
     "Notes/Shredded chicken tacos.md",
     "Recipes/Cocoa brownies.md",

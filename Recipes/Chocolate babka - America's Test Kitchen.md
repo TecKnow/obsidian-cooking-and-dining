@@ -1,7 +1,7 @@
 ---
 
 sources:
-     - [[America's test kitchen]]
+     - "[[America's test kitchen]]"
 url: https://www.americastestkitchen.com/recipes/14284-chocolate-babka
 video: https://youtu.be/toQVQnbYwmk?si=aHYO-Q114uBDP0c2
 tags:
